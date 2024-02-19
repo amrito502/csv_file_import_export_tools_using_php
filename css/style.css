@@ -1,0 +1,28 @@
+.csv_btn{
+    border: 1px solid #13c8ff!important;
+    font-size: 14px!important;
+    color: #00ceff!important;
+    font-weight: 700!important;
+}
+
+.select_field{
+    cursor: pointer;
+}
+
+.main_import_area{
+    margin: 30px 0 0 0;
+    padding: 30px;
+}
+.main_export_area{
+    margin: 30px 0 0 0;
+    padding: 30px;
+}
+.csv_file_label{
+    font-size: 17px;
+    font-weight: 800;
+    font-family: math;
+}
+.main_file_ex_im{
+    padding: 0px 0 30px 0;
+    background: #f7f7f7;
+}
